@@ -1,9 +1,7 @@
-package baekjoon;
-
 import java.io.*;
 import java.util.*;
 
-public class Solution_17413_단어뒤집기2 {
+public class Main_17413 {
 	public static void main(String[] args) throws Exception {
 		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
 		StringBuilder sb = new StringBuilder();
